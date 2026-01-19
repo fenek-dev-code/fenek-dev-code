@@ -1,4 +1,4 @@
-<div id="header" align="center" style="display: flex; flex-duration: columns;">
+<div id="header" align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <img src="https://komarev.com/ghpvc/?username=fenek-dev-code&style=flat-square&color=blue" alt=""/>
 </div>
