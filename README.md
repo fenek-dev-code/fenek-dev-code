@@ -1,8 +1,9 @@
 <div align="center">
 
-  <!-- Анимированный заголовок -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=👨‍💻+Fenek;🚀+Backend+Developer;⚡+Go+•+Python+•+Cloud" alt="" />
-
+  <!-- Статичный заголовок вместо анимированного -->
+  <h1>👨‍💻 Fenek | Backend Developer</h1>
+  <h3>🚀 Go • Python • Cloud Native</h3>
+  
   <!-- GIF и счетчики -->
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
@@ -14,7 +15,8 @@
 
 </div>
 
----
+<!-- Радужный разделитель -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📊 **GitHub Stats**
 
@@ -29,7 +31,8 @@
   
 </div>
 
----
+<!-- Радужный разделитель -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🛠️ **Tech Stack**
 
@@ -77,23 +80,20 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
+<!-- Радужный разделитель -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📈 **Activity**
 
 <div align="center">
   
-  <!-- Простой график активности -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fenek-dev-code&theme=github-dark&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
-  
-  <br>
-  
-  <!-- GitHub трофеи -->
-  <img src="https://github-profile-trophy.vercel.app/?username=fenek-dev-code&theme=radical&no-frame=true&row=2&column=4" alt=""/>
+  <!-- Альтернативный график активности -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fenek-dev-code&theme=github-dark&hide_border=true" width="100%" alt="Activity Graph"/>
   
 </div>
 
----
+<!-- Радужный разделитель -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📫 **Connect**
 
@@ -108,9 +108,6 @@
   </a>
   <a href="mailto:youremail@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/fenek-dev-code" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   
   <br><br>
