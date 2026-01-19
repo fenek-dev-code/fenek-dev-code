@@ -4,16 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3000&pause=500&color=00ADD8&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%8E%AF+WELCOME+TO+MY+DIGITAL+REALM+%F0%9F%8E%AF;%E2%9C%A8+FENEK+%7C+BACKEND+SORCERER+%E2%9C%A8;%F0%9F%9A%80+GO+%E2%80%A2+PYTHON+%E2%80%A2+CLOUD+WIZARDRY+%F0%9F%9A%80" alt="Animated Header" />
 
   <!-- 3D анимированный ASCII арт -->
-  <pre align="center">
-  ╔══════════════════════════════════════════════════════════╗
-  ║  ███████╗███████╗███╗   ██╗███████╗██╗  ██╗             ║
-  ║  ██╔════╝██╔════╝████╗  ██║██╔════╝██║ ██╔╝             ║
-  ║  █████╗  █████╗  ██╔██╗ ██║█████╗  █████╔╝              ║
-  ║  ██╔══╝  ██╔══╝  ██║╚██╗██║██╔══╝  ██╔═██╗              ║
-  ║  ██║     ███████╗██║ ╚████║███████╗██║  ██╗             ║
-  ║  ╚═╝     ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝             ║
-  ╚══════════════════════════════════════════════════════════╝
-  </pre>
 
   <!-- Анимированные счетчики в ряд -->
   <div align="center">
