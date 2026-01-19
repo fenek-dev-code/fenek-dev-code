@@ -21,5 +21,3 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fenek-dev-code&theme=dark&background=000000)](https://git.io/streak-stats)
-[![GitHub](https://komarev.com/ghpvc/?username=fenek-dev-code&style=flat-square&color=blue)](https://github.com/fenek-dev-code)
-[![GitHub](https://komarev.com/ghpvc/?username=fenek-dev-code&style=flat-square&color=blue)](https://github.com/fenek-dev-code)
